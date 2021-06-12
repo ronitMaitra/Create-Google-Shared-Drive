@@ -1,10 +1,10 @@
 var authConfig = {
   version: "1.0.1-fix1",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: '746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com', // Google Client ID
-  client_secret: 'u5a1CSY5pNjdD2tGTU93TTnI', // Google Client Secret
-  refresh_token: '', // Refresh token
-  domain: "Your College Name", //College name to display
+  client_id: '31436081387-jjit96otv71k0bilf9aalf2d0lub2cct.apps.googleusercontent.com', // Google Client ID
+  client_secret: '0IhTt5sVT03dGYAg8iO7VtLW', // Google Client Secret
+  refresh_token: '1//04fBPf7Al9KK3CgYIARAAGAQSNwF-L9IrSqqQELjzbTYJ22V-CFkx2VeFYf3C8hEXxSV-sKdqm_VP8J5PpfRmPOESwm7CJgcplps', // Refresh token
+  domain: "Jolu", //College name to display
   black_list: ["example@gmail.com"]
 };
 
